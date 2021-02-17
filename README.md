@@ -1,3 +1,14 @@
+##  安装 node-dev
+   `yarn global add node-dev`
+    
+## server.js运行
+`node-dev server.js 8888`
+
+### 简单的动态服务器
+
+</br>
+</br>
+
 #### 目标1
 
 * 实现用户注册功能
